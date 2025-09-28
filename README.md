@@ -40,5 +40,6 @@ It checks against **common weak passwords**, evaluates multiple security factors
 1. Clone the repository:
    
    git clone https://github.com/khnsahil2004-dotcom/password_anaylzer.git
+   
    cd password_anaylzer
 
