@@ -38,7 +38,7 @@ It checks against **common weak passwords**, evaluates multiple security factors
 
 ## 🚀 Installation & Usage
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/password-strength-analyzer.git
-   cd password-strength-analyzer
+   
+   git clone https://github.com/khnsahil2004-dotcom/password_anaylzer.git
+   cd password_anaylzer
 
